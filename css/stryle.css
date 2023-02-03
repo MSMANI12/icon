@@ -1,0 +1,24 @@
+.circle{
+	     
+		 background-color:#183153;
+}
+.squre{
+	    
+		background-color:#FFD43B;
+}
+.flex{
+	   display:flex;
+	   flex-wrap:wrap;
+	   background:linear-gradient(white,gray);
+	   
+}
+.cl3:focus{
+	             color:red;
+	             background-color:white;
+				 width:40%;
+				 height:100%;
+				 textarea.form-control
+textarea.form-control {
+    min-height: calc(1.5em + 0.75rem + 2px);
+}
+
